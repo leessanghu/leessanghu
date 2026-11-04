@@ -1,36 +1,61 @@
-<h2 align="center">Hi, I'm Sanghu Lee 👋</h2>
-<p align="center">
-  <b>문제를 구조화하고, 데이터로 검증합니다.</b><br/>
-  Deep Learning · Optimization · AI Agent · Anomaly Detection
-</p>
+# Hi, I'm Sanghu Lee 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-</p>
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
-### About
-- 🎓 서울과학기술대학교 산업정보시스템전공
-- 🧪 학부연구생 — **LLM, Diffusion Model, Multimodal, Generative AI** 연구
-- 🔬 Research interest: **Trustworthy AI** — OOD Detection, Uncertainty Quantification, Machine Unlearning, Diffusion Memorization
-- 🛠 문제 정의 → 데이터 구축 → 모델링 → baseline·ablation 비교 → 해석까지 end-to-end
+### 🎓 About
 
-### Selected Projects
-| Project | What | Stack |
-|---|---|---|
-| [Dynamic Batter Weakness Maps](https://github.com/Deep-Learning-Batter-Weakness-2026Sp/Dynamic-Batter-Weakness-Maps-via-Pitch-Sequence-Transformers) | Pitch-sequence Transformer로 동적 타자 약점 지도 생성 (Acc 0.698, ECE 0.016) | PyTorch, Statcast |
-| [OGC-project](https://github.com/leessanghu/OGC-project) | Optimization Grand Challenge 2026 — 선박 블록 배치·스케줄링 최적화 | Python, Heuristics |
-| [KB-Agent-Project](https://github.com/leessanghu/KB-Agent-Project) | 외국인 금융 온보딩 Multi-Agent 시스템 (RAG · OCR) | TypeScript, FAISS |
-| [financial-anomaly-detection](https://github.com/leessanghu/financial-anomaly-detection) | 비지도 금융 이상 거래 탐지 및 유형·원인 해석 | Isolation Forest, KMeans, RF |
-| [DDPM-with-PPO--MNIST](https://github.com/leessanghu/DDPM-with-PPO--MNIST) | DDPM × PPO — Diffusion과 강화학습 결합 실험 (MNIST) | PyTorch |
+- Seoul National University of Science and Technology — Industrial & Information Systems Engineering
+- Undergraduate Researcher — **LLM, Diffusion Model, Multimodal, Generative AI**
+- Research interest: **Diffusion for Optimization** — Trajectory Optimization, Diffusion-based Planning, Constraint-Aware Generation
 
-### Activities
-LG Aimers 9기 · 2025 NVIDIA DLI Workshop · ADsP · Optimization Grand Challenge 2026 · Future Finance AI Challenge · DACON 투자 데이터 시각화 해커톤
 
-### Contact
+---
+
+### 🏆 Competition Awards
+
+<details>
+<summary>Show (4)</summary>
+
+<br>
+
+| Year | Competition | Host | Award |
+|------|-------------|------|-------|
+| 2026 | Optimization Grand Challenge 2026 | — | — |
+| 2026 | KB Future Finance AI Challenge | KB Kookmin Bank | — |
+| 2025 | DACON Investment Data Visualization Hackathon | DACON | — |
+| 2025 | LG Aimers Season 9 Hackathon | LG AI Research | — |
+
+</details>
+
+---
+
+### 🚀 Projects
+
+<details>
+<summary>Show (5)</summary>
+
+<br>
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Dynamic Batter Weakness Maps](https://github.com/Deep-Learning-Batter-Weakness-2026Sp/Dynamic-Batter-Weakness-Maps-via-Pitch-Sequence-Transformers) | Dynamic batter weakness map generation via Pitch-sequence Transformer (Acc 0.698, ECE 0.016) | PyTorch, Statcast |
+| [OGC-project](https://github.com/leessanghu/OGC-project) | Optimization Grand Challenge 2026 — ship block placement & scheduling optimization | Python, Heuristics |
+| [KB-Agent-Project](https://github.com/leessanghu/KB-Agent-Project) | Multi-Agent system for foreign national financial onboarding (RAG · OCR) | TypeScript, FAISS |
+| [financial-anomaly-detection](https://github.com/leessanghu/financial-anomaly-detection) | Unsupervised financial fraud detection with type & cause interpretation | Isolation Forest, KMeans, RF |
+| [DDPM-with-PPO--MNIST](https://github.com/leessanghu/DDPM-with-PPO--MNIST) | DDPM × PPO — combining Diffusion models with reinforcement learning (MNIST) | PyTorch |
+
+</details>
+
+---
+
+### 📬 Contact
+
 🌐 [leessanghu.github.io](https://leessanghu.github.io)
